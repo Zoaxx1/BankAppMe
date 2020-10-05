@@ -12,7 +12,7 @@ FRONTEND:
 https://github.com/paz873107 /
 https://github.com/ArielPenna /
 https://github.com/ignaciovid /
-y YO
+&& ME
 
 BACKEND:
 https://github.com/tomas0011 /
