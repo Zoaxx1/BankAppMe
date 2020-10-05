@@ -2,7 +2,7 @@
 
 This is the last project to HENRY (https://www.soyhenry.com/)
 is a virtual wallet that we can add money, make transactions, add contacs,
-and other stuffs, and is make it in React-Native
+and other stuffs, and is make in React-Native
 
 If you want to see how is work, enter on https://bankappme.tk/
 
