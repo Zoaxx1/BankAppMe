@@ -9,13 +9,13 @@ If you want to see how is work, enter on https://bankappme.tk/
 And for last, this project was make it with 
 
 FRONTEND:
-https://github.com/paz873107
-https://github.com/ArielPenna
-https://github.com/ignaciovid
+https://github.com/paz873107 /
+https://github.com/ArielPenna /
+https://github.com/ignaciovid /
 y YO
 
 BACKEND:
-https://github.com/tomas0011
-https://github.com/matiasruizmdz
-https://github.com/FernandoChecchi
+https://github.com/tomas0011 /
+https://github.com/matiasruizmdz /
+https://github.com/FernandoChecchi /
 
